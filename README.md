@@ -56,11 +56,11 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| **graph-your-x** | Projet de hackathon | React · TypeScript · Vite |
-| **projet-final-poo** | Application de bureau avec interface graphique | Java · JavaFX · Maven |
-| **ApiJeuRole** | API de jeu de rôle (lobby, joueurs, créatures, exploration), en équipe | Java |
-| **esp32-micropython** | Projets sur microcontrôleur : capteurs I2C, boutons, LEDs | MicroPython · ESP32 |
-| **projet-equipe-03** | Site web React réalisé en équipe | React · Vite |
+| [**graph-your-x**](https://github.com/mohammadnasrhasmi-beep/graph-your-x) | Projet de hackathon | React · TypeScript · Vite |
+| [**ApiJeuRole**](https://github.com/mohammadnasrhasmi-beep/ApiJeuRole) | API de jeu de rôle (lobby, joueurs, créatures, exploration), en équipe | Java |
+| [**esp32-micropython**](https://github.com/mohammadnasrhasmi-beep/esp32-micropython) | Microcontrôleur : LED RGB, bus I2C, matrice LED 8×8 | MicroPython · ESP32 |
+| [**java-poo-projets**](https://github.com/mohammadnasrhasmi-beep/java-poo-projets) | 5 projets POO : club sportif, parc d'attractions, bibliothèque, formes, banque | Java |
+
 
 ---
 
