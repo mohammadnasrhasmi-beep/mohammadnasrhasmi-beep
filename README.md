@@ -3,6 +3,13 @@
 <p align="center"><i>Computer science student in Montréal, building with Java, React, Python and microcontrollers.</i></p>
 
 <p align="center">
+  <a href="https://mohammadnasrhasmi-beep.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=react&logoColor=7dd3fc" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-hasmi-a7507b372/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadnasrhasmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/momorcm_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+%26+POO;React+%2B+TypeScript;MicroPython+sur+ESP32;R%C3%A9seaux+%26+s%C3%A9curit%C3%A9" alt="Typing SVG" />
 </p>
 
@@ -59,6 +66,7 @@
 | [**graph-your-x**](https://github.com/mohammadnasrhasmi-beep/graph-your-x) | Projet de hackathon | React · TypeScript · Vite |
 | [**ApiJeuRole**](https://github.com/mohammadnasrhasmi-beep/ApiJeuRole) | API de jeu de rôle (lobby, joueurs, créatures, exploration), en équipe | Java |
 | [**esp32-micropython**](https://github.com/mohammadnasrhasmi-beep/esp32-micropython) | Microcontrôleur : LED RGB, bus I2C, matrice LED 8×8 | MicroPython · ESP32 |
+| [**web-debuts**](https://github.com/mohammadnasrhasmi-beep/web-debuts) | Mes premiers sites : Mars (DOM), boutique, Cookies & Crumble | HTML · CSS · JavaScript |
 | [**java-poo-projets**](https://github.com/mohammadnasrhasmi-beep/java-poo-projets) | 5 projets POO : club sportif, parc d'attractions, bibliothèque, formes, banque | Java |
 
 
